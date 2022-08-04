@@ -53,7 +53,16 @@ popular web browsers.
 
 ### User Goals
 
+- The user can play a short, pleasant and enjoyable little game.
+- The user can challenge himself and try to win the game.
+- The user can explore the subject of "Pokemon" in a fun way.
+
 ### Site Owner Goals
+
+- Create a page where people can play short games.
+- Create a Pokemon-themed page to attract fans of the series.
+- Create a nice and eye-catching design.
+- Create a fully responsive website for tablets and mobile devices and compatible with the most popular browsers.
 
 ## User Experience
 
