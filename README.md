@@ -43,9 +43,9 @@
 
 The main goal of the project is to build a website with popular mini-games such as "Hangman", "Quiz", "Rock Scissor
 Paper" etc.
-The entire website and games will be based on the popular Pokemon theme.  
+The entire website and games will be based on the popular Pokémon theme.  
 
-The site is designed to encourage new people to learn about the subject of Pokemon as well as arouse a note of nostalgia
+The site is designed to encourage new people to learn about the subject of Pokémon as well as arouse a note of nostalgia
 among older fans.
 
 The website and games must be simple and pleasant to use, responsive to mobile devices and compatible with the most
@@ -55,7 +55,7 @@ popular web browsers.
 
 - The user can play a short, pleasant and enjoyable little game.
 - The user can challenge himself and try to win the game.
-- The user can explore the subject of "Pokemon" in a fun way.
+- The user can explore the subject of "Pokémon" in a fun way.
 
 ### Site Owner Goals
 
@@ -67,14 +67,48 @@ popular web browsers.
 ## User Experience
 
 ### Target Audience
+- Anyone who likes to play simple and fast browser games.
+- Anyone who wants to know the world of Pokémon.
+- Anyone who currently knows the subject of Pokémon
+- The site has child-friendly content.
 
 ### User Requirements and Expectations
 
+- A website that is quick to load.
+- Responsive website for mobile devices.
+- Easy navigation system.
+- Easy way to contact the author online.
+- Find links for social media.
+- Simple and interesting content.
+- Feel the nostalgia of Pokémon.
+- Easy to understand & enjoyable games.
+
 ### User Stories
 
-#### First-time users
+#### Site User
 
-#### Returning visitor
+1. As a user, I want to know what content I can find on this website.
+2. As a user, I want to be able to navigate this website simply and intuitively.
+3. As a user, I want to be able to find the link to the games quickly and easily.
+4. As a user, I want to know the rules of the game before I start playing.
+5. As a user, I want to be able to see the rules during the game.
+6. As a user, I would like to see who the author of the game is.
+7. As a user, I would like to be able to contact the author of the page.
+8. As a user, I want to know if my message has been sent.
+9. As a user, I want to see if the page is on other social media.
+10. As a user, I want to be informed about new games.
+11. As a user, I want to be able to use the website and play games on my laptop, tablet and mobile phone.
+
+#### Site Owner
+
+12. As a site owner I want to create a website that will be fully responsive to mobile devices.
+13. As a site owner I want the user to know what my website is about.
+14. As a site owner I want my website to be simple and easy to navigate.
+15. As a site owner I want the user to be able to contact me easily.
+16. As a site owner I want the user to know that his message reached me.
+17. As a site owner I want my website to contain links to my social media.
+18. As a site owner I want the player to be able to learn the rules of the game and come back to them while playing.
+19. As a site owner I want to be able to inform site users about new games.
 
 ## Design
 
