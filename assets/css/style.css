@@ -18,3 +18,8 @@ body {
     background: -webkit-linear-gradient(90deg, rgb(31, 70, 144), rgb(35, 25, 85));
     background: linear-gradient(90deg, rgb(31, 70, 144), rgb(35, 25, 85));
 }
+
+/* class for quick center the heading or paragraph */
+.text-center {
+    text-align: center;
+}
