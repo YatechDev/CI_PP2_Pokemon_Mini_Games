@@ -41,6 +41,16 @@
 
 ## Project Goals
 
+The main goal of the project is to build a website with popular mini-games such as "Hangman", "Quiz", "Rock Scissor
+Paper" etc.
+The entire website and games will be based on the popular Pokemon theme.  
+
+The site is designed to encourage new people to learn about the subject of Pokemon as well as arouse a note of nostalgia
+among older fans.
+
+The website and games must be simple and pleasant to use, responsive to mobile devices and compatible with the most
+popular web browsers.
+
 ### User Goals
 
 ### Site Owner Goals
