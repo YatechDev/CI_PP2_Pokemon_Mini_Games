@@ -50,8 +50,8 @@ body {
     grid-template-columns: repeat(4, 1fr);
 }
 
-.left-box,
-.right-box {
+.left-col,
+.right-col {
     padding: 4.8rem 0;
     display: grid;
     justify-content: center;
@@ -62,8 +62,12 @@ body {
     padding: 9.6rem 0;
 }
 
-#intro-container {
+.intro-container {
     background-color: #1f4690;
     border: 2px solid #231955;
+}
+
+.intro-img {
+    width: 100%;
 }
 
