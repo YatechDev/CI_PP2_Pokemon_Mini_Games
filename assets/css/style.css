@@ -50,3 +50,20 @@ body {
     grid-template-columns: repeat(4, 1fr);
 }
 
+.left-box,
+.right-box {
+    padding: 4.8rem 0;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.outer {
+    padding: 9.6rem 0;
+}
+
+#intro-container {
+    background-color: #1f4690;
+    border: 2px solid #231955;
+}
+
