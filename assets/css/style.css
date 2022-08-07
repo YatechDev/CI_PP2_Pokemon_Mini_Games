@@ -2,6 +2,12 @@
 GENERAL RULES
 ========== */
 
+/* 'Page Title font */
+@font-face {
+    font-family: titlehead;
+    src: url(/assets/fonts/blueberry_days.ttf);
+}
+
 /* Basic reset */
 * {
     padding: 0;
@@ -60,6 +66,13 @@ p {
     display: grid;
     justify-content: center;
     align-items: center;
+}
+
+.title-head {
+    font-family: 'titlehead', sans-serif;
+    font-size: 9rem;
+    color: #fbdb04;
+    text-shadow: 5px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .outer {
